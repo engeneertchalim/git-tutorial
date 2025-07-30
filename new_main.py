@@ -18,3 +18,10 @@ def print_infos_user(name, age):
 
 
 print_infos_user('Tchalim', 20)
+
+print_infos_user('Tchalim', 20)
+
+print_infos_user('Tchalim', 20)
+
+print_infos_user('Tchalim', 20)
+
