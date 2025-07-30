@@ -36,3 +36,5 @@ age = demande_info()
 
 print_infos_user(nom, age)
 
+print("merci")
+
