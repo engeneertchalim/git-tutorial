@@ -8,6 +8,8 @@ def print_infos_user(name, age):
 
     print("")
 
+    print("commit with git commit -p")
+
 
 
 
