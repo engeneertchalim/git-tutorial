@@ -4,6 +4,8 @@ def print_infos_user(name, age):
 
     print("youpiiiiii")
 
+    print("use git commit -p")
+
 
 
 
