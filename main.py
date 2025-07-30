@@ -11,7 +11,9 @@ def print_infos_user(name, age):
     print("commit with git commit -p")
 
     print("git commit with -p without git add")
-    print("addd")
+
+    print("")
+
 
 
 
