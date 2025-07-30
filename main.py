@@ -6,6 +6,12 @@ def demande_info():
     return age
 
 
+def demande_nom():
+
+    nom = input("Quel est votre nom? ")
+
+    return nom
+
 
 def print_infos_user(name, age):
     print(f"your name is {name}")
@@ -24,8 +30,9 @@ def print_infos_user(name, age):
     print("")
 
 
+nom = demande_nom()
 
 age = demande_info()
 
-print_infos_user('Tchalim', age)
+print_infos_user(nom, age)
 
