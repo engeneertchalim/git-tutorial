@@ -13,7 +13,7 @@ def get_password():
 
 def auth(username, password):
 
-    print("conect successfull")jjedfjjfdjgkgkfg
+    print("conect successfull")
 
 
 username = get_username()
