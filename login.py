@@ -19,6 +19,8 @@ def auth(username, password):
 
     print("conect successfull")
 
+    print("welcome")
+
 
 username = get_username()
 password  =get_password()
