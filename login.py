@@ -16,6 +16,11 @@ def auth(username, password):
     if len(username) < 3:
         print("le suername est trop cour")
         return
+    
+    if len(password) < 8:
+        print("password too short")
+
+        return 
 
     print("conect successfull")
 
