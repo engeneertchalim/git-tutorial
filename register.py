@@ -11,3 +11,10 @@ def get_email():
 
 def get_password():
     return input("Password:")
+
+
+username = get_username()
+
+email = get_email()
+
+password = get_password()
