@@ -3,7 +3,7 @@
 def demande_info():
     age = input("quel est votre age .")
 
-    return age + 10
+    return int(age) + 10
 
 
 def demande_nom():
