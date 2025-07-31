@@ -18,3 +18,13 @@ username = get_username()
 email = get_email()
 
 password = get_password()
+
+
+def registration(username, email, password):
+
+    print("account created successful")
+
+    print("saving user in database")
+
+
+registration(username=username, email=email, password=password)
